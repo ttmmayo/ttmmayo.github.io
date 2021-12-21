@@ -10,6 +10,9 @@ These are projects completed for university assignments or assessments:
 
 This implements the paths and pipes board game made by Curiosity Contagion Games as a simple program using Visual Studio and C#. This project was completed as part of a university assignment for COMPX102 Object-Orientated Programming.
 
+[Ball Game](https://github.com/ttmmayo/androidapp)
+
+This implements a simple ball game as an app using the accelerometer and other sensors. It was created in Android Studio using Java and XML. This project was completed as part of a university assignment for COMPX202 Mobile Computing and Software Architecture.
 
 ### Independent Projects
 
